@@ -2,3 +2,7 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Anomaly-Psy-Tweaks\1
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Anomaly-Psy-Tweaks\1.6\Source\AnomalyPsyTweaks\obj\Debug\AnomalyPsyTweaks.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Anomaly-Psy-Tweaks\1.6\Assemblies\AnomalyPsyTweaks.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Anomaly-Psy-Tweaks\1.6\Source\AnomalyPsyTweaks\obj\Debug\AnomalyPsyTweaks.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnomalyPsyTweaks\1.6\Assemblies\AnomalyPsyTweaks.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnomalyPsyTweaks\1.6\Source\AnomalyPsyTweaks\obj\Debug\AnomalyPsyTweaks.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnomalyPsyTweaks\1.6\Source\AnomalyPsyTweaks\obj\Debug\AnomalyPsyTweaks.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\AnomalyPsyTweaks\1.6\Source\AnomalyPsyTweaks\obj\Debug\AnomalyPsyTweaks.dll

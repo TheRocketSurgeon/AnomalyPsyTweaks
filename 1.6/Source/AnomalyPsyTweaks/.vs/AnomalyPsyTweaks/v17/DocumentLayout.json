@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\",
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\utils\\apt_jobdriver_unnaturalcorpsecrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomalypsytweaks\\1.6\\source\\anomalypsytweaks\\utils\\apt_jobdriver_unnaturalcorpsecrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:utils\\apt_jobdriver_unnaturalcorpsecrush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\utils\\apt_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\utils\\apt_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:utils\\apt_defof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\utils\\is_loaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\utils\\is_loaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:utils\\is_loaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\utils\\apt_animationworker_unnaturalcorpseawokenkilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\utils\\apt_animationworker_unnaturalcorpseawokenkilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:utils\\apt_animationworker_unnaturalcorpseawokenkilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\harmony\\patch_corpsearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\harmony\\patch_corpsearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:harmony\\patch_corpsearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\harmony\\patch_revhypnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\harmony\\patch_revhypnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:harmony\\patch_revhypnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\harmony\\patch_cubearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\harmony\\patch_cubearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:harmony\\patch_cubearrivalincidentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\harmony\\patch_corpsequestroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\harmony\\patch_corpsequestroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:harmony\\patch_corpsequestroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\anomaly-psy-tweaks\\1.6\\source\\anomalypsytweaks\\harmony\\patch_jobgiveunnaturalcorpseattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\harmony\\patch_jobgiveunnaturalcorpseattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D45F426-C49A-40E6-BDC5-5A1E89ECF09E}|AnomalyPsyTweaks.csproj|solutionrelative:harmony\\patch_jobgiveunnaturalcorpseattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -52,25 +52,24 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Patch_JobGiveUnnaturalCorpseAttack.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
               "RelativeDocumentMoniker": "Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
               "RelativeToolTip": "Harmony\\Patch_JobGiveUnnaturalCorpseAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:27:36.648Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "APT_JobDriver_UnnaturalCorpseCrush.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
               "RelativeDocumentMoniker": "Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
               "RelativeToolTip": "Utils\\APT_JobDriver_UnnaturalCorpseCrush.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwFAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T22:48:40.178Z",
               "IsPinned": true,
@@ -80,92 +79,85 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "APT_DefOf.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_DefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_DefOf.cs",
               "RelativeDocumentMoniker": "Utils\\APT_DefOf.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_DefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_DefOf.cs",
               "RelativeToolTip": "Utils\\APT_DefOf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T03:18:22.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T03:18:22.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Patch_CubeArrivalIncidentWorker.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CubeArrivalIncidentWorker.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CubeArrivalIncidentWorker.cs",
               "RelativeDocumentMoniker": "Harmony\\Patch_CubeArrivalIncidentWorker.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CubeArrivalIncidentWorker.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CubeArrivalIncidentWorker.cs",
               "RelativeToolTip": "Harmony\\Patch_CubeArrivalIncidentWorker.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T02:21:13.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T02:21:13.843Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Is_Loaded.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\Is_Loaded.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\Is_Loaded.cs",
               "RelativeDocumentMoniker": "Utils\\Is_Loaded.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\Is_Loaded.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\Is_Loaded.cs",
               "RelativeToolTip": "Utils\\Is_Loaded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T02:20:38.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T02:20:38.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Patch_CorpseQuestRoot.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseQuestRoot.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseQuestRoot.cs",
               "RelativeDocumentMoniker": "Harmony\\Patch_CorpseQuestRoot.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseQuestRoot.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseQuestRoot.cs",
               "RelativeToolTip": "Harmony\\Patch_CorpseQuestRoot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T02:19:28.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T02:19:28.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Patch_RevHypnosis.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_RevHypnosis.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_RevHypnosis.cs",
               "RelativeDocumentMoniker": "Harmony\\Patch_RevHypnosis.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_RevHypnosis.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_RevHypnosis.cs",
               "RelativeToolTip": "Harmony\\Patch_RevHypnosis.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAEwEoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:56:34.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:56:34.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Patch_CorpseArrivalIncidentWorker.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
               "RelativeDocumentMoniker": "Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
               "RelativeToolTip": "Harmony\\Patch_CorpseArrivalIncidentWorker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:56:29.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:56:29.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
               "RelativeDocumentMoniker": "Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
-              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Anomaly-Psy-Tweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\AnomalyPsyTweaks\\1.6\\Source\\AnomalyPsyTweaks\\Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
               "RelativeToolTip": "Utils\\APT_AnimationWorker_UnnaturalCorpseAwokenKilling.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:28:08.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:28:08.379Z"
             }
           ]
         }
