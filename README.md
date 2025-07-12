@@ -2,8 +2,6 @@
 # Anomaly Psy Tweaks
 Version: 1.1
 
-Author: [The Rocket Surgeon](https://steamcommunity.com/id/Bittls/)
-
 [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3521723260)
 
  A collection of tweaks to the psychic anomalies in RimWorld designed scale their effects based on pawns' psychic sensitivity. This mod aims to make psychically deaf and dull pawns more valuable when dealing with psychic anomalies, while also making psychically sensitive and hypersensitive pawns more vulnerable to said anomalies. Effects and vulnerabilities added by this mod can also be enabled and disabled in the mod options as you see fit.
