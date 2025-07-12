@@ -1,6 +1,6 @@
 ![Mod Preview](https://i.imgur.com/UCufPd0.png)
 # Anomaly Psy Tweaks
-Version: 1.1
+Version: 1.1.1
 
 [Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=3521723260)
 
