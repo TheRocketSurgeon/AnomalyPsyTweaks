@@ -49,6 +49,7 @@ namespace AnomalyPsyTweaks
 
             listingStandard.Label("APT_EventModifiersDesc".Translate());
             listingStandard.CheckboxLabeled("APT_EnableCorpseHeadCrush".Translate(), ref AnomalyPsyTweaksSettings.DoCorpseHeadCrush, "APT_EnableCorpseHeadCrushDesc".Translate());
+            listingStandard.CheckboxLabeled("APT_RevHarm".Translate(), ref AnomalyPsyTweaksSettings.DoCorpseHeadCrush, "APT_RevHarmDesc".Translate());
 
             listingStandard.End();
             base.DoSettingsWindowContents(inRect);

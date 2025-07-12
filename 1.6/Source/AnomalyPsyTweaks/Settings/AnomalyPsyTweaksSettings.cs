@@ -19,6 +19,7 @@ namespace AnomalyPsyTweaks
         public static bool DoVulnEffects = true;
         // controls for additional event modifiers
         public static bool DoCorpseHeadCrush = false;
+        public static bool DoRevenantHarm = false;
 
         public override void ExposeData()
         {
@@ -31,7 +32,7 @@ namespace AnomalyPsyTweaks
             Scribe_Values.Look(ref DoVulnEffects, "DoVulnEffects");
 
             Scribe_Values.Look(ref DoCorpseHeadCrush, "DoCorpseHeadCrush");
-
+            Scribe_Values.Look(ref DoRevenantHarm, "DoRevenantHarm");
             base.ExposeData();
         }
     }

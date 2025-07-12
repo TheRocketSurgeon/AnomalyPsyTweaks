@@ -1,6 +1,6 @@
 ![Mod Preview](https://i.imgur.com/UCufPd0.png)
 # Anomaly Psy Tweaks
-Version: 1.1
+Version: 1.2.0
 
 Author: [The Rocket Surgeon](https://steamcommunity.com/id/Bittls/)
 
@@ -44,5 +44,5 @@ This mod makes significant changes to the code used for the anomalies listed abo
 Please let me know if you find any unexpected conflicts. I will try to fix the ones I can.
 
 ## Latest changes:
-Version 1.1: added an option that enables the Unnatural Corpse to target psychically deaf pawns and kill them by crushing their skull. It is disabled by default, but can be turned on in the mod settings
+Version 1.2.0: added an option that makes psychically sensitive and hypersensitive revenant victims injure themselves while under the effects of hypnosis. It is disabled by default but can be turned on in the mod settings
 
