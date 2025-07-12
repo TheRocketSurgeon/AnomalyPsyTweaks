@@ -42,5 +42,5 @@ This mod makes significant changes to the code used for the anomalies listed abo
 Please let me know if you find any unexpected conflicts. I will try to fix the ones I can.
 
 ## Latest changes:
-Version 1.1: added an option that enables the Unnatural Corpse to target psychically deaf pawns and kill them by crushing their skull. It is disabled by default, but can be turned on in the mod settings
+Version 1.1.1: Fixed a bug related to the removal of custom revenant hypnosis effects. If you are experiencing an issue where custom hypnosis effects do not go away after a reverent dies please restart your game, ensure that the mod has been updated to version 1.1.1 or higher in the mod manager, and then use dev mode to clear any lingering hypnosis effects. I am sorry for any issues this may have caused
 
