@@ -14,7 +14,7 @@
 
   <!-- A version number for your own tracking -->
   <!-- See wiki About.xml guide for concerns regarding this field for RimWorld versions prior to 1.4 -->
-  <modVersion>1.1</modVersion>
+  <modVersion>1.1.1</modVersion>
 
   <!-- These are the RimWorld game versions that your mod supports. -->
   <!-- It is recommended that you only list versions that you have explicitly tested to ensure they work, -->
