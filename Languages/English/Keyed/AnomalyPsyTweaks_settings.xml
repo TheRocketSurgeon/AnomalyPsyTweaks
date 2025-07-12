@@ -23,4 +23,7 @@
 	<APT_EventModifiersDesc>Optional modifiers that change how vulnerabilities and resistances work</APT_EventModifiersDesc>
 	<APT_EnableCorpseHeadCrush>Unnatural Corpse can crush psychically deaf pawns' heads</APT_EnableCorpseHeadCrush>
 	<APT_EnableCorpseHeadCrushDesc>When enabled, the unnatural corpse will be able to target psychically deaf pawns, but it will crush their head instead of incinerating their brains. This takes slightly longer than normal psychic incineration.</APT_EnableCorpseHeadCrushDesc>
+
+	<APT_RevHarm>Psychically sensitive revenant victims injure themselves while hypnotized</APT_RevHarm>
+	<APT_RevHarmDesc>When enabled, psychically sensitive and hypersensitive revenant victims will occasionally scratch and bruise themselves while under the effects of hypnosis</APT_RevHarmDesc>
 </LanguageData>
