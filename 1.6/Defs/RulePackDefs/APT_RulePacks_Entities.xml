@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RulePackDef>
+    <defName>APT_Event_UnnaturalCorpseAttack</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_logentry->[INITIATOR_definite] crushed [SUBJECT_definite]'s skull.</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

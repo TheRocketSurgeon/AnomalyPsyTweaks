@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<APT_ModName>Anomaly Psy Tweaks</APT_ModName>
+	<APT_RestartNote>NOTE: Game must be restarted to apply changes.</APT_RestartNote>
+	<APT_OngoingEventWarning>WARNING: Changing settings while an event listed below is in progress may have adverse effects on your game. Do this at your own risk!</APT_OngoingEventWarning>
+
+	<APT_EventSettingDesc>Enable or disable all changes for an event: </APT_EventSettingDesc>
+	<APT_RevTweak>Revenant hypnosis</APT_RevTweak>
+	<APT_RevTweakDesc>Revenant hypnosis effects change based on victims' psychic sensitivity.</APT_RevTweakDesc>
+	<APT_GoldCubeTweak>Golden Cube</APT_GoldCubeTweak>
+	<APT_GoldCubeTweakDesc>Pawns become more or less susceptible to the Golden Cube based on their psychic sensitivity</APT_GoldCubeTweakDesc>
+	<APT_CorpseTweak>Unnatural Corpse</APT_CorpseTweak>
+	<APT_CorpseTweakDesc>Blocks the Unnatural Corpse from targeting psychically deaf pawns</APT_CorpseTweakDesc>
+	<APT_PainTweak>Agony pulse</APT_PainTweak>
+	<APT_PainTweakDesc>Pawns become more or less susceptible to agony pulses based on their psychic sensitivity</APT_PainTweakDesc>
+	
+	<APT_LevelNote>Enable or disable unique reactions for specific sensitivity ranges:</APT_LevelNote>
+	<APT_EnableResist>Enable psy resistances</APT_EnableResist>
+	<APT_EnableResistDesc>Enable or disable the ability to resist psychic anomalies based on psy sensitivity.</APT_EnableResistDesc>
+	<APT_EnableVuln>Enable psy vulnerabilities</APT_EnableVuln>
+	<APT_EnableVulnDesc>Enable or disable additional vulnerability based on psy sensitivity</APT_EnableVulnDesc>
+
+	<APT_EventModifiersDesc>Optional modifiers that change how vulnerabilities and resistances work</APT_EventModifiersDesc>
+	<APT_EnableCorpseHeadCrush>Unnatural Corpse can crush psychically deaf pawns' heads</APT_EnableCorpseHeadCrush>
+	<APT_EnableCorpseHeadCrushDesc>When enabled, the unnatural corpse will be able to target psychically deaf pawns, but it will crush their head instead of incinerating their brains. This takes slightly longer than normal psychic incineration.</APT_EnableCorpseHeadCrushDesc>
+</LanguageData>

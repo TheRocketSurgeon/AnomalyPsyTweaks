@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <!-- Unnatural Corpse -->
+    <defName>APT_UnnaturalCorpseCrush</defName>
+    <driverClass>AnomalyPsyTweaks.APT_JobDriver_UnnaturalCorpseCrush</driverClass>
+    <reportString>chasing TargetA.</reportString>
+    <checkOverrideOnDamage>Never</checkOverrideOnDamage>
+  </JobDef>
+</Defs>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ThoughtDef>
+        <defName>APT_FailedHypnosisThought</defName>
+        <workerClass>ThoughtWorker_Hediff</workerClass>
+        <hediff>APT_FailedRevenantHypnosis</hediff>
+        <validWhileDespawned>true</validWhileDespawned>
+        <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+        <stackLimit>3</stackLimit>
+        <stages>
+        <li>
+            <label>A revenant tried to hypnotize me</label>
+            <description>A revenant tried to hypnotize me. It failed, but I still found the experience disturbing.\n\nI wont feel safe until it is dealt with.</description>
+            <baseMoodEffect>-5</baseMoodEffect>
+        </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>APT_MildHypnosisThought</defName>
+        <workerClass>ThoughtWorker_Hediff</workerClass>
+        <hediff>APT_MildRevenantHypnosis</hediff>
+        <validWhileDespawned>true</validWhileDespawned>
+        <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+        <stackLimit>3</stackLimit>
+        <stages>
+        <li>
+            <label>A revenant tried to hypnotize me</label>
+            <description>A revenant tried to hypnotize me. It failed, but I can still feel its touch on my mind.\n\nI wont feel safe until it is dealt with.</description>
+            <baseMoodEffect>-8</baseMoodEffect>
+        </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>APT_HypnoticShockThought</defName>
+        <workerClass>ThoughtWorker_Hediff</workerClass>
+        <hediff>APT_HypnoticShock</hediff>
+        <validWhileDespawned>true</validWhileDespawned>
+        <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+        <stackLimit>1</stackLimit>
+        <stages>
+        <li>
+            <label>A revenant hypnotized me</label>
+            <description>A revenant hypnotized me. I can still feel its foul influence on my mind</description>
+            <baseMoodEffect>-10</baseMoodEffect>
+        </li>
+        </stages>
+    </ThoughtDef>
+
+    <ThoughtDef>
+        <defName>APT_ExtremeHypnoticShockThought</defName>
+        <workerClass>ThoughtWorker_Hediff</workerClass>
+        <hediff>APT_ExtremeHypnoticShock</hediff>
+        <validWhileDespawned>true</validWhileDespawned>
+        <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
+        <stackLimit>1</stackLimit>
+        <stages>
+        <li>
+            <label>A revenant hypnotized me</label>
+            <description>A revenant hypnotized me. I still see it every time I close my eyes and still feel its lingering influence gnawing at my subconscious.</description>
+            <baseMoodEffect>-20</baseMoodEffect>
+        </li>
+        </stages>
+    </ThoughtDef>
+
+    </Defs>
