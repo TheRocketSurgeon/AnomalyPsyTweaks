@@ -1,7 +1,6 @@
-﻿using RimWorld;
-using Verse;
+﻿using Verse;
 
-namespace TestMod
+namespace AnomalyPsyTweaks
 {
     [StaticConstructorOnStartup]
     public static class Is_Loaded

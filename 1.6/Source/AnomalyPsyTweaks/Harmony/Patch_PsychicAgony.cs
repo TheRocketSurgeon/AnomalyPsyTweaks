@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using HarmonyLib;
+﻿using HarmonyLib;
 using RimWorld;
 using Verse;
 
@@ -40,7 +35,7 @@ namespace AnomalyPsyTweaks
                 }
                 return false;
             }
-            else if (1.2 <= pawn.GetStatValue(StatDefOf.PsychicSensitivity) && pawn.GetStatValue(StatDefOf.PsychicSensitivity) < 1.399 && AnomalyPsyTweaksSettings.DoVulnEffects) // Psychically sensitive. Giving hediff of increased severity
+            else if (1.399 <= pawn.GetStatValue(StatDefOf.PsychicSensitivity) && pawn.GetStatValue(StatDefOf.PsychicSensitivity) < 1.799 && AnomalyPsyTweaksSettings.DoVulnEffects) // Psychically sensitive. Giving hediff with increased severity
             {
                 //Log.Message("APT: using severe agony pulse for " + pawn.Named("PAWN") + " with sensitivity of " + pawn.GetStatValue(StatDefOf.PsychicSensitivity));
                 if (pawn.health.hediffSet.TryGetHediff(APT_DefOf.APT_SevereAgonyPulse, out var hediff))
@@ -58,7 +53,7 @@ namespace AnomalyPsyTweaks
                 }
                 return false;
             }
-            else if (1.399 <= pawn.GetStatValue(StatDefOf.PsychicSensitivity) && AnomalyPsyTweaksSettings.DoVulnEffects) // Psychically hypersensitive. Giving hediff of extreme severity
+            else if (1.799 <= pawn.GetStatValue(StatDefOf.PsychicSensitivity) && AnomalyPsyTweaksSettings.DoVulnEffects) // Psychically hypersensitive. Giving hediff of extreme severity
             {
                 //Log.Message("APT: using extreme agony pulse for " + pawn.Named("PAWN") + " with sensitivity of " + pawn.GetStatValue(StatDefOf.PsychicSensitivity));
                 if (pawn.health.hediffSet.TryGetHediff(APT_DefOf.APT_ExtremeAgonyPulse, out var hediff))

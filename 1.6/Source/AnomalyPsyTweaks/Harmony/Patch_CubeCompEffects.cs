@@ -12,10 +12,8 @@ namespace AnomalyPsyTweaks
         public static bool Prefix(CompGoldenCube __instance, ref Pawn pawn)
         {
             if (!AnomalyPsyTweaksSettings.TweakCube) return true; // skip prefix execution if tweak is disabled
-            //Log.Message("APT-CCE: Attempting to add cube interest hediff to pawn " + pawn.Named("PAWN"));
             if (pawn.GetStatValue(StatDefOf.PsychicSensitivity) <= 0 && AnomalyPsyTweaksSettings.DoResistEffects)
             {
-                //Log.Message("APT-CCE: Cube blocked from enthralling " + pawn.Named("PAWN") + " because they are not psychically sensitive");
                 Log.Warning("APT-CCE: Attempting to select backup cube target");
                 List<Pawn> freeColonistsSpawned = __instance.parent.Map.mapPawns.FreeColonistsSpawned;
                 foreach(Pawn colonist in freeColonistsSpawned)
@@ -34,7 +32,6 @@ namespace AnomalyPsyTweaks
             }
             else
             {
-                //Log.Message("APT-CCE: Continuing with standard execution");
                 return true;
             }
 

@@ -53,7 +53,7 @@ namespace AnomalyPsyTweaks
                 }
 
                 // pawn is psychically sensitive
-                else if (1.2 <= victim.GetStatValue(StatDefOf.PsychicSensitivity) && victim.GetStatValue(StatDefOf.PsychicSensitivity) < 1.399 && AnomalyPsyTweaksSettings.DoVulnEffects)
+                else if (1.399 <= victim.GetStatValue(StatDefOf.PsychicSensitivity) && victim.GetStatValue(StatDefOf.PsychicSensitivity) < 1.799 && AnomalyPsyTweaksSettings.DoVulnEffects)
                 {
                     //Log.Message("APT: Revenant hypnosis bonus success");
                     victim.health.AddHediff(APT_DefOf.APT_SevereRevenantHypnosis, null, null);
@@ -70,7 +70,7 @@ namespace AnomalyPsyTweaks
                     return false;
                 }
                 // pawn is psychically hypersensitive
-                else if (1.399 <= victim.GetStatValue(StatDefOf.PsychicSensitivity) && AnomalyPsyTweaksSettings.DoVulnEffects)
+                else if (1.799 <= victim.GetStatValue(StatDefOf.PsychicSensitivity) && AnomalyPsyTweaksSettings.DoVulnEffects)
                 {
                     //Log.Message("APT: Revenant hypnosis extreme success");
                     victim.health.AddHediff(APT_DefOf.APT_ExtremeRevenantHypnosis, null, null);

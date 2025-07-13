@@ -19,8 +19,6 @@ namespace AnomalyPsyTweaks
             if (!AnomalyPsyTweaksSettings.TweakCube) return __result; // skips postfix execution entirely when settings disable tweak
             if (__result && pawn.GetStatValue(StatDefOf.PsychicSensitivity) <= 0 && AnomalyPsyTweaksSettings.DoResistEffects) // double checking result with updated criteria. should still honor default false results
             {
-                //
-                //("APT-CAIW: Cube attempted to enthrall a pawn with psy sensitivity of " + pawn.GetStatValue(StatDefOf.PsychicSensitivity));
                 return false;
             }
             // defaulting to default pick bool
