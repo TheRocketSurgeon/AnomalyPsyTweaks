@@ -1,6 +1,6 @@
 ![Mod Preview](https://i.imgur.com/UCufPd0.png)
 # Anomaly Psy Tweaks
-Version: 1.1
+Version: 1.1.2
 
 Author: [The Rocket Surgeon](https://steamcommunity.com/id/Bittls/)
 
@@ -44,5 +44,10 @@ This mod makes significant changes to the code used for the anomalies listed abo
 Please let me know if you find any unexpected conflicts. I will try to fix the ones I can.
 
 ## Latest changes:
-Version 1.1: added an option that enables the Unnatural Corpse to target psychically deaf pawns and kill them by crushing their skull. It is disabled by default, but can be turned on in the mod settings
+Version 1.1.2:
+
+- Changed the psychic sensitivity thresholds for the revenant and agony pulse effects to match trait-based sensitivity instead of gene based sensitivity.
+- Changed cube interest severity gains to scale based on the psy sensitivity stat directly
+- Fixed bug which prevented cube vulnerability from being disabled under certain circumstances
+- Fixed a bug related to psychically dull pawns not being able to drop the cube after playing with it
 
