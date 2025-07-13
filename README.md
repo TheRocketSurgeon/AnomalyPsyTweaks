@@ -49,5 +49,5 @@ Version 1.1.2:
 - Changed the psychic sensitivity thresholds for the revenant and agony pulse effects to match trait-based sensitivity instead of gene based sensitivity.
 - Changed cube interest severity gains to scale based on the psy sensitivity stat directly
 - Fixed bug which prevented cube vulnerability from being disabled under certain circumstances
-- Fixed a bug related to psychically dull pawns not being able to drop the cube after playing with it
+- Fixed a bug that prevented pawns with low sensitivity from dropping the cube
 
